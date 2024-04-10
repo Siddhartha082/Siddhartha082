@@ -1,7 +1,7 @@
 ![logo](https://github.com/Siddhartha082/Siddhartha082/assets/110781138/b1a37f9b-63b8-4965-bf1b-f00d89465e7b)
 
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
-<h3 align="center">A passionate Aspiring Data Scientist from India</h3>
+<h3 align="center">A passionate Aspiring Data Scientist from Bengaluru India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
