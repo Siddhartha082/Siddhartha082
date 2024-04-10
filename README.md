@@ -1,4 +1,5 @@
-![logo](https://github.com/Siddhartha082/Siddhartha082/assets/110781138/d28a1c53-1858-4c84-b01b-41e6d078530e)
+![logo](https://github.com/Siddhartha082/Siddhartha082/assets/110781138/b1a37f9b-63b8-4965-bf1b-f00d89465e7b)
+
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate Aspiring Data Scientist from India</h3>
 
