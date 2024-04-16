@@ -1,4 +1,5 @@
 ![logo](https://github.com/Siddhartha082/Siddhartha082/assets/110781138/b1a37f9b-63b8-4965-bf1b-f00d89465e7b)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate Aspiring Data Scientist from Bengaluru India</h3>
