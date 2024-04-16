@@ -4,11 +4,14 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate Aspiring Data Scientist from Bengaluru India</h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Siddhartha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhartha-p-9a68745/)](https://www.linkedin.com/in/siddhartha-p-9a68745/)
+[![Gmail Badge](https://img.shields.io/badge/-sai.siddharth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sai.siddharth@gmail.com)](mailto:sai.siddharth@gmail.com) 
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartha082&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartha082" /> </p>
 
-- 🌱 I’m currently learning **MLOPS,Docker,K8s,Cloud-AWS,Gen_AI,LLM**
+- 🌱 I’m currently learning **MLOPS,Docker,K8s,AWS Cloud Services,Gen_AI,LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddhartha082](https://github.com/Siddhartha082)
 
