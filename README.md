@@ -1,4 +1,5 @@
-![logo](https://github.com/Siddhartha082/Siddhartha082/assets/110781138/b496be17-4477-4f59-be25-aac140a3ce53)
+![logo](https://github.com/user-attachments/assets/aa50f566-d332-4a6c-97e0-da21380f6537)
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
